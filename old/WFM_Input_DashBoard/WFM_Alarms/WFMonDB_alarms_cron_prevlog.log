@@ -1,0 +1,337 @@
+Importing list of python file: Done
+Temporal directory:  /tmp/cmst1/tmpIvkP8e
+Copying /afs/cern.ch/user/c/cmst1/scratch0/WFM_Input_DashBoard/site_list_prev.txt
+Done
+Initializing jason file:
+Done
+==========================================================================================
+T1_IT_CNAF
+pledge: 2275
+http://dashb-cms-prod.cern.ch/dashboard/request.py/condorjobnumberscsv?sites=T1_IT_CNAF&sitesSort=1&jobTypes=&start=null&end=null&timeRange=last24&granularity=15%20Min&sortBy=3&series=All&type=r
+fetched running csv of T1_IT_CNAF succesfully
+http://dashb-cms-prod.cern.ch/dashboard/request.py/condorjobnumberscsv?sites=T1_IT_CNAF&sitesSort=1&jobTypes=&start=null&end=null&timeRange=last24&granularity=15%20Min&sortBy=3&series=All&type=p
+fetched pending csv of T1_IT_CNAF succesfully
+merged the csv to one csv
+05-Mar-14T11:50:39
+1
+ratio RUN/PLEDGED:  1.37054945055
+4
+ratio RUN/PLEDGED:  1.3743956044
+32
+ratio RUN/PLEDGED:  1.30222527473
+96
+ratio RUN/PLEDGED:  1.22449175824
+GLIDE IN :OK, OK, OK, OK   
+NEW ALARM: OK, OK, OK, OK   
+==========================================================================================
+T1_RU_JINR
+pledge: 1200
+http://dashb-cms-prod.cern.ch/dashboard/request.py/condorjobnumberscsv?sites=T1_RU_JINR&sitesSort=1&jobTypes=&start=null&end=null&timeRange=last24&granularity=15%20Min&sortBy=3&series=All&type=r
+fetched running csv of T1_RU_JINR succesfully
+http://dashb-cms-prod.cern.ch/dashboard/request.py/condorjobnumberscsv?sites=T1_RU_JINR&sitesSort=1&jobTypes=&start=null&end=null&timeRange=last24&granularity=15%20Min&sortBy=3&series=All&type=p
+fetched pending csv of T1_RU_JINR succesfully
+merged the csv to one csv
+05-Mar-14T11:50:39
+1
+ratio RUN/PLEDGED:  0.636666666667
+4
+ratio RUN/PLEDGED:  0.627083333333
+32
+ratio RUN/PLEDGED:  0.581796875
+96
+ratio RUN/PLEDGED:  0.696258680556
+GLIDE IN :OK, OK, OK, OK   
+NEW ALARM: ALARM, ALARM, ALARM, ALARM   
+==========================================================================================
+T1_FR_CCIN2P3
+pledge: 2000
+http://dashb-cms-prod.cern.ch/dashboard/request.py/condorjobnumberscsv?sites=T1_FR_CCIN2P3&sitesSort=1&jobTypes=&start=null&end=null&timeRange=last24&granularity=15%20Min&sortBy=3&series=All&type=r
+fetched running csv of T1_FR_CCIN2P3 succesfully
+http://dashb-cms-prod.cern.ch/dashboard/request.py/condorjobnumberscsv?sites=T1_FR_CCIN2P3&sitesSort=1&jobTypes=&start=null&end=null&timeRange=last24&granularity=15%20Min&sortBy=3&series=All&type=p
+fetched pending csv of T1_FR_CCIN2P3 succesfully
+merged the csv to one csv
+05-Mar-14T11:50:39
+1
+ratio RUN/PLEDGED:  0
+4
+ratio RUN/PLEDGED:  0
+32
+ratio RUN/PLEDGED:  0
+96
+ratio RUN/PLEDGED:  0
+GLIDE IN :OK, OK, OK, OK   
+NEW ALARM: OK, OK, ALARM, ALARM   
+==========================================================================================
+T2_UA_KIPT
+pledge: 400
+http://dashb-cms-prod.cern.ch/dashboard/request.py/condorjobnumberscsv?sites=T2_UA_KIPT&sitesSort=1&jobTypes=&start=null&end=null&timeRange=last24&granularity=15%20Min&sortBy=3&series=All&type=r
+fetched running csv of T2_UA_KIPT succesfully
+http://dashb-cms-prod.cern.ch/dashboard/request.py/condorjobnumberscsv?sites=T2_UA_KIPT&sitesSort=1&jobTypes=&start=null&end=null&timeRange=last24&granularity=15%20Min&sortBy=3&series=All&type=p
+fetched pending csv of T2_UA_KIPT succesfully
+merged the csv to one csv
+05-Mar-14T11:50:39
+1
+ratio RUN/PLEDGED:  0
+4
+ratio RUN/PLEDGED:  0
+32
+ratio RUN/PLEDGED:  0
+96
+ratio RUN/PLEDGED:  0
+GLIDE IN :UNDEF, UNDEF, UNDEF, UNDEF   
+NEW ALARM: UNDEF, UNDEF, UNDEF, UNDEF   
+==========================================================================================
+T2_US_Florida
+pledge: 2900
+http://dashb-cms-prod.cern.ch/dashboard/request.py/condorjobnumberscsv?sites=T2_US_Florida&sitesSort=1&jobTypes=&start=null&end=null&timeRange=last24&granularity=15%20Min&sortBy=3&series=All&type=r
+fetched running csv of T2_US_Florida succesfully
+http://dashb-cms-prod.cern.ch/dashboard/request.py/condorjobnumberscsv?sites=T2_US_Florida&sitesSort=1&jobTypes=&start=null&end=null&timeRange=last24&granularity=15%20Min&sortBy=3&series=All&type=p
+fetched pending csv of T2_US_Florida succesfully
+merged the csv to one csv
+05-Mar-14T11:50:39
+1
+ratio RUN/PLEDGED:  0
+4
+ratio RUN/PLEDGED:  0
+32
+ratio RUN/PLEDGED:  0
+96
+ratio RUN/PLEDGED:  0
+GLIDE IN :UNDEF, UNDEF, UNDEF, UNDEF   
+NEW ALARM: UNDEF, UNDEF, UNDEF, UNDEF   
+==========================================================================================
+T1_DE_KIT
+pledge: 1700
+http://dashb-cms-prod.cern.ch/dashboard/request.py/condorjobnumberscsv?sites=T1_DE_KIT&sitesSort=1&jobTypes=&start=null&end=null&timeRange=last24&granularity=15%20Min&sortBy=3&series=All&type=r
+fetched running csv of T1_DE_KIT succesfully
+http://dashb-cms-prod.cern.ch/dashboard/request.py/condorjobnumberscsv?sites=T1_DE_KIT&sitesSort=1&jobTypes=&start=null&end=null&timeRange=last24&granularity=15%20Min&sortBy=3&series=All&type=p
+fetched pending csv of T1_DE_KIT succesfully
+merged the csv to one csv
+05-Mar-14T11:50:39
+1
+ratio RUN/PLEDGED:  1.26352941176
+4
+ratio RUN/PLEDGED:  1.25544117647
+32
+ratio RUN/PLEDGED:  1.06132352941
+96
+ratio RUN/PLEDGED:  1.04365808824
+GLIDE IN :OK, OK, OK, OK   
+NEW ALARM: OK, OK, OK, OK   
+==========================================================================================
+T1_US_FNAL
+pledge: 11300
+http://dashb-cms-prod.cern.ch/dashboard/request.py/condorjobnumberscsv?sites=T1_US_FNAL&sitesSort=1&jobTypes=&start=null&end=null&timeRange=last24&granularity=15%20Min&sortBy=3&series=All&type=r
+fetched running csv of T1_US_FNAL succesfully
+http://dashb-cms-prod.cern.ch/dashboard/request.py/condorjobnumberscsv?sites=T1_US_FNAL&sitesSort=1&jobTypes=&start=null&end=null&timeRange=last24&granularity=15%20Min&sortBy=3&series=All&type=p
+fetched pending csv of T1_US_FNAL succesfully
+merged the csv to one csv
+05-Mar-14T11:50:39
+1
+ratio RUN/PLEDGED:  0.638495575221
+4
+ratio RUN/PLEDGED:  0.651084070796
+32
+ratio RUN/PLEDGED:  0.865630530973
+96
+ratio RUN/PLEDGED:  0.924614675516
+GLIDE IN :OK, OK, OK, OK   
+NEW ALARM: ALARM, ALARM, WARNING, OK   
+==========================================================================================
+T2_DE_DESY
+pledge: 0
+http://dashb-cms-prod.cern.ch/dashboard/request.py/condorjobnumberscsv?sites=T2_DE_DESY&sitesSort=1&jobTypes=&start=null&end=null&timeRange=last24&granularity=15%20Min&sortBy=3&series=All&type=r
+fetched running csv of T2_DE_DESY succesfully
+http://dashb-cms-prod.cern.ch/dashboard/request.py/condorjobnumberscsv?sites=T2_DE_DESY&sitesSort=1&jobTypes=&start=null&end=null&timeRange=last24&granularity=15%20Min&sortBy=3&series=All&type=p
+fetched pending csv of T2_DE_DESY succesfully
+merged the csv to one csv
+05-Mar-14T11:50:39
+1
+ratio RUN/PLEDGED:  0
+4
+ratio RUN/PLEDGED:  0
+32
+ratio RUN/PLEDGED:  0
+96
+ratio RUN/PLEDGED:  0
+GLIDE IN :UNDEF, UNDEF, UNDEF, UNDEF   
+NEW ALARM: UNDEF, UNDEF, UNDEF, UNDEF   
+==========================================================================================
+T2_FR_CCIN2P3
+pledge: 900
+http://dashb-cms-prod.cern.ch/dashboard/request.py/condorjobnumberscsv?sites=T2_FR_CCIN2P3&sitesSort=1&jobTypes=&start=null&end=null&timeRange=last24&granularity=15%20Min&sortBy=3&series=All&type=r
+fetched running csv of T2_FR_CCIN2P3 succesfully
+http://dashb-cms-prod.cern.ch/dashboard/request.py/condorjobnumberscsv?sites=T2_FR_CCIN2P3&sitesSort=1&jobTypes=&start=null&end=null&timeRange=last24&granularity=15%20Min&sortBy=3&series=All&type=p
+fetched pending csv of T2_FR_CCIN2P3 succesfully
+merged the csv to one csv
+05-Mar-14T11:50:39
+1
+ratio RUN/PLEDGED:  0
+4
+ratio RUN/PLEDGED:  0
+32
+ratio RUN/PLEDGED:  0
+96
+ratio RUN/PLEDGED:  0
+GLIDE IN :UNDEF, UNDEF, UNDEF, UNDEF   
+NEW ALARM: UNDEF, UNDEF, UNDEF, UNDEF   
+==========================================================================================
+T2_US_Purdue
+pledge: 10320
+http://dashb-cms-prod.cern.ch/dashboard/request.py/condorjobnumberscsv?sites=T2_US_Purdue&sitesSort=1&jobTypes=&start=null&end=null&timeRange=last24&granularity=15%20Min&sortBy=3&series=All&type=r
+fetched running csv of T2_US_Purdue succesfully
+http://dashb-cms-prod.cern.ch/dashboard/request.py/condorjobnumberscsv?sites=T2_US_Purdue&sitesSort=1&jobTypes=&start=null&end=null&timeRange=last24&granularity=15%20Min&sortBy=3&series=All&type=p
+fetched pending csv of T2_US_Purdue succesfully
+merged the csv to one csv
+05-Mar-14T11:50:39
+1
+ratio RUN/PLEDGED:  0
+4
+ratio RUN/PLEDGED:  0
+32
+ratio RUN/PLEDGED:  0
+96
+ratio RUN/PLEDGED:  0
+GLIDE IN :UNDEF, UNDEF, UNDEF, UNDEF   
+NEW ALARM: UNDEF, UNDEF, UNDEF, UNDEF   
+==========================================================================================
+T2_FR_GRIF_LLR
+pledge: 1400
+http://dashb-cms-prod.cern.ch/dashboard/request.py/condorjobnumberscsv?sites=T2_FR_GRIF_LLR&sitesSort=1&jobTypes=&start=null&end=null&timeRange=last24&granularity=15%20Min&sortBy=3&series=All&type=r
+fetched running csv of T2_FR_GRIF_LLR succesfully
+http://dashb-cms-prod.cern.ch/dashboard/request.py/condorjobnumberscsv?sites=T2_FR_GRIF_LLR&sitesSort=1&jobTypes=&start=null&end=null&timeRange=last24&granularity=15%20Min&sortBy=3&series=All&type=p
+fetched pending csv of T2_FR_GRIF_LLR succesfully
+merged the csv to one csv
+05-Mar-14T11:50:39
+1
+ratio RUN/PLEDGED:  0
+4
+ratio RUN/PLEDGED:  0
+32
+ratio RUN/PLEDGED:  0
+96
+ratio RUN/PLEDGED:  0
+GLIDE IN :UNDEF, UNDEF, UNDEF, UNDEF   
+NEW ALARM: UNDEF, UNDEF, UNDEF, UNDEF   
+==========================================================================================
+T1_UK_RAL
+pledge: 1700
+http://dashb-cms-prod.cern.ch/dashboard/request.py/condorjobnumberscsv?sites=T1_UK_RAL&sitesSort=1&jobTypes=&start=null&end=null&timeRange=last24&granularity=15%20Min&sortBy=3&series=All&type=r
+fetched running csv of T1_UK_RAL succesfully
+http://dashb-cms-prod.cern.ch/dashboard/request.py/condorjobnumberscsv?sites=T1_UK_RAL&sitesSort=1&jobTypes=&start=null&end=null&timeRange=last24&granularity=15%20Min&sortBy=3&series=All&type=p
+fetched pending csv of T1_UK_RAL succesfully
+merged the csv to one csv
+05-Mar-14T11:50:39
+1
+ratio RUN/PLEDGED:  1.07294117647
+4
+ratio RUN/PLEDGED:  0.944558823529
+32
+ratio RUN/PLEDGED:  0.933841911765
+96
+ratio RUN/PLEDGED:  1.1831495098
+GLIDE IN :OK, OK, OK, OK   
+NEW ALARM: OK, OK, OK, OK   
+==========================================================================================
+T2_DE_RWTH
+pledge: 0
+http://dashb-cms-prod.cern.ch/dashboard/request.py/condorjobnumberscsv?sites=T2_DE_RWTH&sitesSort=1&jobTypes=&start=null&end=null&timeRange=last24&granularity=15%20Min&sortBy=3&series=All&type=r
+fetched running csv of T2_DE_RWTH succesfully
+http://dashb-cms-prod.cern.ch/dashboard/request.py/condorjobnumberscsv?sites=T2_DE_RWTH&sitesSort=1&jobTypes=&start=null&end=null&timeRange=last24&granularity=15%20Min&sortBy=3&series=All&type=p
+fetched pending csv of T2_DE_RWTH succesfully
+merged the csv to one csv
+05-Mar-14T11:50:39
+1
+ratio RUN/PLEDGED:  0
+4
+ratio RUN/PLEDGED:  0
+32
+ratio RUN/PLEDGED:  0
+96
+ratio RUN/PLEDGED:  0
+GLIDE IN :UNDEF, UNDEF, UNDEF, UNDEF   
+NEW ALARM: UNDEF, UNDEF, UNDEF, UNDEF   
+==========================================================================================
+T2_UK_SGrid_RALPP
+pledge: 0
+http://dashb-cms-prod.cern.ch/dashboard/request.py/condorjobnumberscsv?sites=T2_UK_SGrid_RALPP&sitesSort=1&jobTypes=&start=null&end=null&timeRange=last24&granularity=15%20Min&sortBy=3&series=All&type=r
+fetched running csv of T2_UK_SGrid_RALPP succesfully
+http://dashb-cms-prod.cern.ch/dashboard/request.py/condorjobnumberscsv?sites=T2_UK_SGrid_RALPP&sitesSort=1&jobTypes=&start=null&end=null&timeRange=last24&granularity=15%20Min&sortBy=3&series=All&type=p
+fetched pending csv of T2_UK_SGrid_RALPP succesfully
+merged the csv to one csv
+05-Mar-14T11:50:39
+1
+ratio RUN/PLEDGED:  0
+4
+ratio RUN/PLEDGED:  0
+32
+ratio RUN/PLEDGED:  0
+96
+ratio RUN/PLEDGED:  0
+GLIDE IN :UNDEF, UNDEF, UNDEF, UNDEF   
+NEW ALARM: UNDEF, UNDEF, UNDEF, UNDEF   
+==========================================================================================
+T2_CH_CERN
+pledge: 4400
+http://dashb-cms-prod.cern.ch/dashboard/request.py/condorjobnumberscsv?sites=T2_CH_CERN&sitesSort=1&jobTypes=&start=null&end=null&timeRange=last24&granularity=15%20Min&sortBy=3&series=All&type=r
+fetched running csv of T2_CH_CERN succesfully
+http://dashb-cms-prod.cern.ch/dashboard/request.py/condorjobnumberscsv?sites=T2_CH_CERN&sitesSort=1&jobTypes=&start=null&end=null&timeRange=last24&granularity=15%20Min&sortBy=3&series=All&type=p
+fetched pending csv of T2_CH_CERN succesfully
+merged the csv to one csv
+05-Mar-14T11:50:39
+1
+ratio RUN/PLEDGED:  0
+4
+ratio RUN/PLEDGED:  0
+32
+ratio RUN/PLEDGED:  0
+96
+ratio RUN/PLEDGED:  0
+GLIDE IN :UNDEF, UNDEF, UNDEF, UNDEF   
+NEW ALARM: UNDEF, UNDEF, UNDEF, UNDEF   
+==========================================================================================
+T2_RU_IHEP
+pledge: 1400
+http://dashb-cms-prod.cern.ch/dashboard/request.py/condorjobnumberscsv?sites=T2_RU_IHEP&sitesSort=1&jobTypes=&start=null&end=null&timeRange=last24&granularity=15%20Min&sortBy=3&series=All&type=r
+fetched running csv of T2_RU_IHEP succesfully
+http://dashb-cms-prod.cern.ch/dashboard/request.py/condorjobnumberscsv?sites=T2_RU_IHEP&sitesSort=1&jobTypes=&start=null&end=null&timeRange=last24&granularity=15%20Min&sortBy=3&series=All&type=p
+fetched pending csv of T2_RU_IHEP succesfully
+merged the csv to one csv
+05-Mar-14T11:50:39
+1
+ratio RUN/PLEDGED:  0
+4
+ratio RUN/PLEDGED:  0
+32
+ratio RUN/PLEDGED:  0
+96
+ratio RUN/PLEDGED:  0
+GLIDE IN :UNDEF, UNDEF, UNDEF, UNDEF   
+NEW ALARM: UNDEF, UNDEF, UNDEF, UNDEF   
+==========================================================================================
+T1_ES_PIC
+pledge: 1200
+http://dashb-cms-prod.cern.ch/dashboard/request.py/condorjobnumberscsv?sites=T1_ES_PIC&sitesSort=1&jobTypes=&start=null&end=null&timeRange=last24&granularity=15%20Min&sortBy=3&series=All&type=r
+fetched running csv of T1_ES_PIC succesfully
+http://dashb-cms-prod.cern.ch/dashboard/request.py/condorjobnumberscsv?sites=T1_ES_PIC&sitesSort=1&jobTypes=&start=null&end=null&timeRange=last24&granularity=15%20Min&sortBy=3&series=All&type=p
+fetched pending csv of T1_ES_PIC succesfully
+merged the csv to one csv
+05-Mar-14T11:50:39
+1
+ratio RUN/PLEDGED:  0.0
+4
+ratio RUN/PLEDGED:  0.0
+32
+ratio RUN/PLEDGED:  0.339609375
+96
+ratio RUN/PLEDGED:  0.530876736111
+GLIDE IN :OK, OK, OK, OK   
+NEW ALARM: ALARM, ALARM, ALARM, ALARM   
+==========================================================================================
+T1_CH_CERN
+Traceback (most recent call last):
+  File "make_WFMalarms.py", line 341, in <module>
+    main()
+  File "make_WFMalarms.py", line 221, in main
+    pledge = int(db_ExtractStatusEntry.getSiteStatusEntry(site, dateTime, tmpdir+'/'+pledgejson))
+ValueError: invalid literal for int() with base 10: 'n/a'

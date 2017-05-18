@@ -1,0 +1,1 @@
+2015-11-22 00:00:01	T2_US_MIT	Ok	cOk	https://dashb-ssb.cern.ch/dashboard/request.py/sitehistory?site=T2_US_MIT#currentView=Site+Readiness&time=custom&start_date=2015-11-22&end_date=2015-11-23&values=false&spline=false&white=false
