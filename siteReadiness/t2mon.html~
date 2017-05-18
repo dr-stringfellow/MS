@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>T2 Site Readiness</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <link href="css/siteReadiness.css" rel="stylesheet">
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+  <script type="text/javascript" src="js/t2mon.js"></script>
+  <script type="text/javascript" src="js/pearson-correlation.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="https://d3js.org/d3.v4.js"></script>
+  <script src="https://www.amcharts.com/lib/3/amcharts.js"></script>
+  <script src="https://www.amcharts.com/lib/3/serial.js"></script>
+  <script src="https://www.amcharts.com/lib/3/plugins/export/export.min.js"></script>
+  <link rel="stylesheet" href="https://www.amcharts.com/lib/3/plugins/export/export.css" type="text/css" media="all" />
+  <script src="https://www.amcharts.com/lib/3/themes/light.js"></script>
+</head>
+<body>
+  <header id="header">
+      <h1 id="pageTitle">T2 Site Readiness</h1>
+  </header>
+  <main id="main">
+    <div id="SummaryBox">      
+      <div id="Wrapper1">
+        <div id="SiteOverview"></div>
+      </div>
+      <div id="Wrapper2">
+        <div id="YearOverview"></div>
+        <div id="Correlation"></div>
+      </div>
+    </div>  
+    <script type="text/javascript">
+      $(document).ready(function() {
+      initPage();
+      });
+    </script>
+  </main>
+  </body>
+</html>
+
+ 
